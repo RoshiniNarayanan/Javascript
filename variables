@@ -1,0 +1,16 @@
+var price=50
+var product="Clutch"
+var tax=10.15
+var total=price+tax
+console.log("Total price of "+product+" is "+total)
+console.log("DATATYPES")
+console.log("Price:"+typeof(price))
+console.log("Product:"+typeof(product))
+console.log("Total:"+typeof(total))
+console.log("Tax:"+typeof(tax))
+{
+    let a=60
+    console.log(a)
+}
+const b=15
+console.log(b)
