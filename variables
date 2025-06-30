@@ -8,9 +8,6 @@ console.log("Price:"+typeof(price))
 console.log("Product:"+typeof(product))
 console.log("Total:"+typeof(total))
 console.log("Tax:"+typeof(tax))
-{
-    let a=60
-    console.log(a)
-}
+
 const b=15
 console.log(b)
